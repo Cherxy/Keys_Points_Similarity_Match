@@ -1,1 +1,1 @@
-Python demo_info_copy.py
+Python demo_infer_copy.py
